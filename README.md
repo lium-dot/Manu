@@ -132,6 +132,11 @@ jobs:
 </td>
 
 <td align="center">
+  <img src="https://i.ibb.co/LBjyW2k/IMG-20250524-WA0003.jpg" width="100"><br>
+  <b>Dasun Max</b><br><i>😻Web Developer 🤍</i>
+</td>
+
+<td align="center">
   <img src="https://i.ibb.co/MDdrvfFc/Manul-Ofc-X.jpg" width="100"><br>
   <b>Vajira MD</b><br><i>🤖Code Helper 🤍</i>
 </td>
